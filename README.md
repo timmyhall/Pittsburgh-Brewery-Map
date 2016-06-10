@@ -1,6 +1,6 @@
 <h1>Pittsburgh Brewery Map</h1> 
 
-<h3>Click <a href="http://timmyhall.github.io/P5-frontend-nanodegree-neighborhood-map/">here</a> to explore map</h3>
+<h3>Click <a href="http://timmyhall.github.io/Pittsburgh-Brewery-Map/">here</a> to explore map</h3>
 
 <h3>To Run Locally</h3>
 <ul>
