@@ -1,0 +1,31 @@
+html, body { 
+	height: 100%;
+    width: 100%;
+	margin: 0; 
+	padding: 0;
+}
+
+#map {
+    height: 100vh;
+    width: 100%;
+}
+
+body {
+    background-color: #000;
+}
+
+title, h1, h3, ul, li, span {
+    color: #fff
+}
+
+li {
+    cursor: pointer;
+}
+
+span {
+	font-size: small;
+}
+
+.filter { 
+	padding: 20px;
+}
